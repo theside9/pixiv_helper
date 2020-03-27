@@ -116,17 +116,17 @@ def pic_download(api,url,thread_list,tid):
             api.download(url[:-3]+"jpg",path=savepath,tid=tid)
             thistime+=1
         except Pixiv.EXISTS_ERROR:
-            now+=1;t+=1
+            pass
         except Pixiv.PixivError as e:
-            log(e);start_thread(api,url,thread_list)
+            log(e);start_thread(api,url,thread_list);return
         except Pixiv.USER_EXIT:
-            t+=1
+            pass
     except Pixiv.EXISTS_ERROR:
-            now+=1;t+=1
+            pass
     except Pixiv.PixivError as e:
-        log(e);start_thread(api,url,thread_list)
+        log(e);start_thread(api,url,thread_list);return
     except Pixiv.USER_EXIT:
-        t+=1
+        pass
     t+=1;now+=1;thread_list[tid]=True
 
 

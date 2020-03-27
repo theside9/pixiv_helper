@@ -18,7 +18,7 @@ class Pixiv(AppPixivAPI):
 
     def download(self, url, prefix='', path=os.path.curdir, name=None, replace=False, fname=None, referer='https://app-api.pixiv.net/',tid=None):
         """Download image to file (use 6.0 app-api)"""
-        _thread.start_new_thread(self.keyboard_listen,())#开始监听键盘，esc终止
+        _thread.start_new_thread(self.keyboard_listen,())#开始监听键盘，e终止
         if fname is None and name is None:
             name = os.path.basename(url)
         elif isinstance(fname, basestring):
@@ -29,7 +29,8 @@ class Pixiv(AppPixivAPI):
             img_path = os.path.join(path, name)
             if (os.path.exists(img_path) and os.path.getsize(img_path)>10) or (os.path.exists(img_path[:-3]+'jpg') and os.path.getsize(img_path[:-3]+'jpg')>10) and not replace:
                 raise EXISTS_ERROR("该文件已存在！%s"%img_path)
-
+        if self.stop:
+            raise USER_EXIT("e press!")
         response = self.requests_call('GET', url, headers={'Referer': referer}, stream=True)
         if response.status_code != 200:
             raise HTTP_REQUESTS_STATUS_ERROR('图片地址错误：%s，状态码：%d'%(url,response.status_code))
@@ -45,12 +46,12 @@ class Pixiv(AppPixivAPI):
             if self.stop:
                 f.close()
                 os.remove(img_path)
-                raise USER_EXIT("esc press!")
+                raise USER_EXIT("e press!")
             if chunk:
                 f.write(chunk)
                 count += len(chunk)
-                if time.time() - time1 > 0.5:
-                    speed = (count - count_tmp) / 1024 / 1024 / 0.5
+                if t:= time.time() - time1 > 0.5:
+                    speed = (count - count_tmp) / 1024 / 1024 / t
                     self.update_speed(speed,tid)
                     count_tmp = count
                     time1 = time.time()
