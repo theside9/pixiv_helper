@@ -30,7 +30,7 @@ def login(api,i=1):
                 i+=1
                 self_print("\r登录失败,正在准备第%d次尝试"%(i))
                 time.sleep(3)
-                login(api,i+1)
+                login(api,i)
             else:
                 self_print("\r网络异常，请检查代理和网络连接后重试。")
                 return
