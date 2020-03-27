@@ -1,10 +1,12 @@
-from os import path,system
+from os import path,system,mkdir
 import re,_thread,time,Pixiv,getpass
 
 thread_count=15
 t=thread_count
 now=All=thistime=tid=0
-savepath=r"C:\Users\cheny\Pictures\p站收藏同步"
+savepath=path.expanduser('~')+r"\Pictures\p站收藏同步"
+if not path.exists(savepath):
+    mkdir(savepath)
 token_save_path=path.expanduser('~')
 def login(api,i=1):
     system("cls")

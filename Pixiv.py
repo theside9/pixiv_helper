@@ -1,6 +1,6 @@
 from pixivpy3 import AppPixivAPI,PixivError
 from pynput.keyboard import Listener,Key
-import os,shutil,time,_thread
+import os,time,_thread
 
 #重写了代理，使用本地代理访问pixiv
 class Pixiv(AppPixivAPI):
