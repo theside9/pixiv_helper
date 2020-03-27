@@ -1,0 +1,56 @@
+requests GET https://i.pximg.net/img-original/img/2019/09/01/05/05/56/76563635_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2019/09/01/05/05/56/76563635_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2019/09/01/05/00/42/76563606_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2019/09/01/05/00/42/76563606_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2018/10/26/13/42/49/71352912_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2018/10/26/13/42/49/71352912_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2018/03/17/00/00/32/67767672_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2018/03/17/00/00/32/67767672_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2017/03/13/23/37/53/61896646_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2017/03/13/23/37/53/61896646_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2018/04/26/01/53/43/68407087_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2018/04/26/01/53/43/68407087_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2018/06/29/00/13/16/69446561_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2018/06/29/00/13/16/69446561_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2016/12/20/08/18/53/60457395_p0.jpg error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2016/12/20/08/18/53/60457395_p0.jpg (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2015/02/01/15/13/52/48494427_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2015/02/01/15/13/52/48494427_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2018/05/14/18/46/59/68745585_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2018/05/14/18/46/59/68745585_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2017/08/10/12/13/01/64331149_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2017/08/10/12/13/01/64331149_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2017/05/22/08/06/15/63016096_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2017/05/22/08/06/15/63016096_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2018/11/16/03/37/23/71674379_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2018/11/16/03/37/23/71674379_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2019/08/07/00/13/37/76116742_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2019/08/07/00/13/37/76116742_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2016/05/29/12/27/37/57121842_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2016/05/29/12/27/37/57121842_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2019/04/13/00/20/42/74171291_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2019/04/13/00/20/42/74171291_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2019/09/18/00/11/11/76838428_p0.jpg error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2019/09/18/00/11/11/76838428_p0.jpg (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2019/09/01/05/00/42/76563606_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2019/09/01/05/00/42/76563606_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2019/01/31/00/00/02/72922386_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2019/01/31/00/00/02/72922386_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2018/12/15/00/00/02/72114086_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2018/12/15/00/00/02/72114086_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2018/07/28/01/27/42/69890440_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2018/07/28/01/27/42/69890440_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2019/04/13/00/20/42/74171291_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2019/04/13/00/20/42/74171291_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2018/01/26/18/37/03/66973649_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2018/01/26/18/37/03/66973649_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2018/01/13/00/16/59/66772546_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2018/01/13/00/16/59/66772546_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2019/09/18/00/11/11/76838428_p0.jpg error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2019/09/18/00/11/11/76838428_p0.jpg (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2018/12/22/00/00/39/72217588_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2018/12/22/00/00/39/72217588_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2017/08/05/00/00/02/64226081_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2017/08/05/00/00/02/64226081_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
+requests GET https://i.pximg.net/img-original/img/2017/10/11/00/00/02/65379860_p0.png error: HTTPSConnectionPool(host='i.pximg.net', port=443): Max retries exceeded with url: /img-original/img/2017/10/11/00/00/02/65379860_p0.png (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+--------------------------
